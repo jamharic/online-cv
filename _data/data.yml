@@ -9,38 +9,38 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
+    name: James Githu
     tagline: Full Stack Developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: jamharic@gmail.com
+    phone: 0790-807-309
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    linkedin: James Githu
+    github: jamharic
+    twitter: '@darthvader'
 
     languages:
         - language:
           idiom: English
           level: Native
         - language:
-          idiom: French
+          idiom: Kiswahili
           level: Professional
         - language:
-          idiom: Spanish
+          idiom: Kikuyu
           level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Hockey
           link:
         - interest:
-          item: Snowboarding
+          item: Bike riding
           link:
         - interest:
-          item: Cooking
+          item: Motivational Speeking
           link:
 
         
@@ -55,8 +55,8 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
+      degree: BSc in Information Technology
+      university: Mount Kenya University
       time: 2011 - 2012
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
